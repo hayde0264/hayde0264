@@ -5,6 +5,8 @@
       "from": Aiken, SC, 
       "age": 21,
       "is_self_taught": true, 
+      "is_looking_for_a_job": true 
+      "is_willing_to_collaborate": true
       "currently": in college studying Finance, 
       "interested_in": [
                               Mobile-App Devleopment, 
@@ -21,9 +23,7 @@
                               Pizza, 
                               Open-Minded People,
                               Situational Humor,
-                 ],
-      "is_looking_for_a_job" = true 
-      "is_willing_to_collaborate" = true 
+                 ] 
 }
 
 
