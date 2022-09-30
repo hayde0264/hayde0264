@@ -1,5 +1,5 @@
 # Hi, I'm **Hayden**
-``` html
+``` yaml
 { 
       "name": Hayden Howell, 
       "from": Aiken, SC, 
