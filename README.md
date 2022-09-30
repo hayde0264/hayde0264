@@ -8,12 +8,15 @@
       "is_self_taught": true, 
       "currently": in college studying Finance, 
       "interested_in": [
-                       Mobile-App Devleopment, 
-                       Object-Oriented Anaylis, 
-                       Object-Oriented Design,
-                       Object-Relational Management,
-                       UML Concepts, 
-                       Remote Databases,
+                        {
+                               Mobile-App Devleopment, 
+                               Object-Oriented Anaylis, 
+                               Object-Oriented Design,
+                               Object-Relational Management,
+                               UML Concepts, 
+                               Remote Databases,
+                               
+                         }
                        ],
       "preferrers": Staticially-typed languages, 
       
