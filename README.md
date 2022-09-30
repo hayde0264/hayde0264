@@ -1,7 +1,6 @@
 # Hi, I'm **Hayden**
 ``` yaml 
 { 
-
       "name": Hayden Howell, 
       "from": Aiken, SC, 
       "age": 21,
@@ -19,8 +18,16 @@
           Clean Coding Practices, 
          }
                         ],
-      "preferrers": Staticially-typed languages, 
-      
+      "enjoys": [ 
+      {
+         Staticially-typed languages,
+         Pizza, 
+         Open-Minded People,
+         Situational Humor,
+      }
+               ],
+      "is_looking_for_a_job" = true 
+      "is_willing_to_collaborate" = true 
 }
 
 
