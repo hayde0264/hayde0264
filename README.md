@@ -13,11 +13,9 @@
                        Object-Oriented Design,
                        Object-Relational Management,
                        UML Concepts, 
-                       Remote Databases
+                       Remote Databases,
                        ],
       "preferrers": Staticially-typed languages, 
-      "is_looking_to_collaborate" = true, 
-      "is_looking_for_a_career" = true,
       
 }
 
