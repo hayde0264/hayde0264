@@ -8,7 +8,7 @@
       "is_looking_for_a_job": true 
       "is_willing_to_collaborate": true
       "currently": in college studying Finance, 
-      "interested_in": [
+      "interets": [
                               Mobile-App Devleopment, 
                               Algorithms,
                               Object-Oriented Anaylis, 
@@ -16,14 +16,14 @@
                               Object-Relational Management, 
                               Remote Databases,
                               Version Control,
-                              Clean Coding Practices, 
+                              Clean Coding Practices
                  ],
       "enjoys":  [ 
                               Staticially-typed languages,
                               Pizza, 
                               Open-Minded People,
-                              Situational Humor,
-                 ] 
+                              Situational Humor
+                 ]
 }
 
 
