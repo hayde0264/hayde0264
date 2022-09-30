@@ -4,9 +4,16 @@
 - 💞️ I’m looking to collaborate on ... Pretty much anything 😃
 - 📫 How to reach me ... 
 ``` yaml 
-name: Hayden Howell 
-from: Augusta, Ga 
-currently: in college studying Finance 
+name: { 
+      Hayden Howell
+   }, 
+from: { 
+      Augusta, Ga
+  }, 
+      
+currently: {
+          in college studying Finance 
+  }, 
 interested_in: Mobile-App Development 
 
 
