@@ -7,25 +7,21 @@
       "is_self_taught": true, 
       "currently": in college studying Finance, 
       "interested_in": [
-        {
-          Mobile-App Devleopment, 
-          Algorithms,
-          Object-Oriented Anaylis, 
-          Object-Oriented Design,
-          Object-Relational Management, 
-          Remote Databases,
-          Version Control,
-          Clean Coding Practices, 
-         }
-                        ],
-      "enjoys": [ 
-      {
-         Staticially-typed languages,
-         Pizza, 
-         Open-Minded People,
-         Situational Humor,
-      }
-               ],
+                              Mobile-App Devleopment, 
+                              Algorithms,
+                              Object-Oriented Anaylis, 
+                              Object-Oriented Design,
+                              Object-Relational Management, 
+                              Remote Databases,
+                              Version Control,
+                              Clean Coding Practices, 
+                 ],
+      "enjoys":  [ 
+                              Staticially-typed languages,
+                              Pizza, 
+                              Open-Minded People,
+                              Situational Humor,
+                 ],
       "is_looking_for_a_job" = true 
       "is_willing_to_collaborate" = true 
 }
