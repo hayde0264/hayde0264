@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hayde0264
+- 👋 Hi, I’m Hayden
 - 👀 I’m interested in ... Mobile Development ☎️
 - 🌱 I’m currently learning ... Kotlin, Swift, Java, and a smidge of Go. 
 - 💞️ I’m looking to collaborate on ... Pretty much anything 😃
