@@ -1,20 +1,25 @@
-- 👋 Hi, I’m Hayden
-- 👀 I’m interested in ... Mobile Development ☎️
-- 🌱 I’m currently learning ... Kotlin, Swift, Java, and a smidge of Go. 
-- 💞️ I’m looking to collaborate on ... Pretty much anything 😃
-- 📫 How to reach me ... 
+# Hi, I'm **Hayden**
 ``` yaml 
-name: { 
-      Hayden Howell
-   }, 
-from: { 
-      Augusta, Ga
-  }, 
+{ 
+
+      "name": Hayden Howell, 
+      "from": Aiken, SC, 
+      "age": 21,
+      "is_self_taught": true, 
+      "currently": in college studying Finance, 
+      "interested_in": [
+                       Mobile-App Devleopment, 
+                       Object-Oriented Anaylis, 
+                       Object-Oriented Design,
+                       Object-Relational Management,
+                       UML Concepts, 
+                       Remote Databases
+                       ],
+      "preferrers": Staticially-typed languages, 
+      "is_looking_to_collaborate" = true, 
+      "is_looking_for_a_career" = true,
       
-currently: {
-          in college studying Finance 
-  }, 
-interested_in: Mobile-App Development 
+}
 
 
 
