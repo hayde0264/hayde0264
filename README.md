@@ -1,33 +1,30 @@
 # Hi, I'm **Hayden**
-``` yaml
-{ 
-      "name": Hayden Howell, 
-      "from": Aiken, SC, 
-      "age": 21,
-      "is_self_taught": true, 
-      "is_looking_for_a_job": true 
-      "is_willing_to_collaborate": true
-      "currently": in college studying Finance, 
-      "interets": [
-                              Mobile-App Devleopment, 
-                              Algorithms,
-                              Object-Oriented Anaylis, 
-                              Object-Oriented Design,
-                              Object-Relational Management, 
-                              Remote Databases,
-                              Version Control,
-                              Clean Coding Practices
-                 ],
-      "enjoys":  [ 
-                              Staticially-typed languages,
-                              Ice Creme, 
-                              Open-Minded People,
-                              Situational Humor
-                 ]
+``` json
+{
+  "name": "Hayden Howell",
+  "from": "Aiken, SC",
+  "age": "21",
+  "currently_is": "in college studying Finance",
+  "is_self_taught": "true",
+  "is_looking_for_a_job": "true",
+  "is_willing_to_collaborate": "true",
+  "interest": [
+    "Mobile-App Development",
+    "Algorithms",
+    "Object-Oriented Analysis",
+    "Object-Oriented Design",
+    "Object-Relational Management",
+    "Remote Databases",
+    "Version Control",
+    "Clean Coding Practices"
+  ],
+  "enjoys": [
+    "Statically-Typed Programming Languages",
+    "Ice Creme",
+    "Open-Minded People",
+    "Situational Humor"
+  ]
 }
-
-
-
 ```
 # Profile Data
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hayde0264&theme=tokyonight)](https://git.io/streak-stats)
