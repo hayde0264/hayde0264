@@ -20,7 +20,7 @@
                  ],
       "enjoys":  [ 
                               Staticially-typed languages,
-                              Pizza, 
+                              Ice Creme, 
                               Open-Minded People,
                               Situational Humor
                  ]
