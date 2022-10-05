@@ -1,4 +1,6 @@
 # Welcome, I'm **Hayden**
+![loop-infinite-geometry-3o7buaucmSsxQf1pZK](https://user-images.githubusercontent.com/109105989/194148068-9d7f8769-bc0e-44d8-91e4-a981142ef6fc.gif)
+
 ``` json
 {
   "name": "Hayden Howell",
