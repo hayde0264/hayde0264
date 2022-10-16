@@ -14,7 +14,7 @@
     "Object-Oriented Analysis",
     "Object-Oriented Design",
     "Object-Relational Management",
-    "Relational Databases",
+    "RDBMS",
     "Version Control",
     "Clean Coding Practices"
   ],
