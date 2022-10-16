@@ -16,7 +16,7 @@
     "Object-Relational Management",
     "RDBMS",
     "Version Control",
-    "Clean Coding Practices"
+    "Clean-Coding Practices"
   ],
   "enjoys": [
     "Statically-Typed Programming Languages",
