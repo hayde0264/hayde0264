@@ -13,7 +13,7 @@
     "Algorithms",
     "Object-Oriented Analysis",
     "Object-Oriented Design",
-    "Object-Relational Management",
+    "Object-Relational Mapping",
     "RDBMS",
     "Version Control",
     "Clean-Coding Practices"
