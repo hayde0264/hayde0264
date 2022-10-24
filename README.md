@@ -9,12 +9,11 @@
   "is_looking_for_a_job": "true",
   "is_willing_to_collaborate": "true",
   "interest": [
-    "Mobile-App Development",
     "Algorithms",
     "Object-Oriented Analysis",
     "Object-Oriented Design",
     "Object-Relational Mapping",
-    "RDBMS",
+    "Databases",
     "Version Control",
     "Clean-Coding Practices"
   ],
