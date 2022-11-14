@@ -13,6 +13,7 @@
     "Back-End Development",
     "Object-Oriented Design",
     "Functional Programming",
+    "Web services",
     "Version Control",
     "Clean-Coding Practices"
   ],
