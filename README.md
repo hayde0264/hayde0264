@@ -10,10 +10,9 @@
   "is_willing_to_collaborate": "true",
   "interest": [
     "Algorithms",
-    "Object-Oriented Analysis",
+    "Back-End Development",
     "Object-Oriented Design",
-    "Object-Relational Mapping",
-    "Databases",
+    "Functional Programming",
     "Version Control",
     "Clean-Coding Practices"
   ],
